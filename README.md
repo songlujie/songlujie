@@ -9,5 +9,6 @@
 - 公众号：``
 
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=songlujie)](https://github.com/anuraghazra/github-readme-stats)
+![songlujie's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=songlujie&layout=compact&hide_border=true&langs_count=10)
 
 > ***做技术的黑客心态加上开放共进的态度是成长和越过高山幽谷的秘籍😊***
