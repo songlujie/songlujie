@@ -8,9 +8,6 @@
 - Blog： 
 - 公众号：``
 
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=songlujie)](https://github.com/anuraghazra/github-readme-stats)
-![songlujie's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=songlujie&layout=compact&hide_border=true&langs_count=10)
-
 ### GitHub Stats
 <div align="center">
     <a href="https://github.com/songlujie">
